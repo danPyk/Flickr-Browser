@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@color/md_teal_500</color>
+    <color name="primary_dark">@color/md_teal_700</color>
+    <color name="primary_light">#B2DFDB</color>
+    <color name="accent">@color/md_deep_orange_500</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+</resources>
